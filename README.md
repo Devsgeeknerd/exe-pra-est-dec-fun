@@ -3,11 +3,11 @@
 
 ***Exercícios:***
 
-* [x] [Exercício 1 — Operadores Relacionais.](https://github.com/Devsgeeknerd/exe-1-ope-rel-exe-pra-est-dec-bas)
-* [x] [Exercício 2 — Operadores de Comparação.](https://github.com/Devsgeeknerd/exe-2-ope-com-exe-pra-est-dec-bas)
-* [x] [Exercício 3 — Fluxograma.](https://github.com/Devsgeeknerd/exe-3-flu-exe-pra-est-dec-bas)
-* [x] [Exercício 4 — Fluxograma.](https://github.com/Devsgeeknerd/exe-4-flu-exe-pra-est-dec-bas)
-* [x] [Exercício 5 — Fluxograma.](https://github.com/Devsgeeknerd/exe-5-flu-exe-pra-est-dec-bas)
+* [x] [Exercício 1 — Operadores Relacionais.](https://github.com/Devsgeeknerd/exe-1-ope-rel-exe-pra-est-dec-fun)
+* [x] [Exercício 2 — Operadores de Comparação.](https://github.com/Devsgeeknerd/exe-2-ope-com-exe-pra-est-dec-fun)
+* [x] [Exercício 3 — Fluxograma.](https://github.com/Devsgeeknerd/exe-3-flu-exe-pra-est-dec-fun)
+* [x] [Exercício 4 — Fluxograma.](https://github.com/Devsgeeknerd/exe-4-flu-exe-pra-est-dec-fun)
+* [x] [Exercício 5 — Fluxograma.](https://github.com/Devsgeeknerd/exe-5-flu-exe-pra-est-dec-fun)
 
 <!-- Informações -->
 ## &#8505; Informações
